@@ -1,7 +1,7 @@
 ---
 page_title: "Contributor Rule and Guidelines"
 description: |-
-   These are the guidelines for Fixate IO and Sweetcode.io contributors. If you are interested in being a contributor visit [here](https://sweetcode.io/contribute-to-sweetcode/)
+   These are the guidelines for Fixate IO and Sweetcode.io contributors. If you are interested in being a contributor visit https://sweetcode.io/contribute-to-sweetcode/
 ---
 
 # Fixate Rules and Process
