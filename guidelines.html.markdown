@@ -8,21 +8,21 @@ description: |-
 
 ## EXTERNAL REPRESENTATION:
 
-If software or services are required in order to complete content, Fixate will procure directly on behalf of the contributor.
+* If software or services are required in order to complete content, Fixate will procure directly on behalf of the contributor.
 
-The contributor will not directly or indirectly solicit Fixate customers on-behalf of their employer for free or discounted software or services on the basis of content generation. This does not prevent standard negotiations by the contributor or contributor’s employer.
+* The contributor will not directly or indirectly solicit Fixate customers on-behalf of their employer for free or discounted software or services on the basis of content generation. This does not prevent standard negotiations by the contributor or contributor’s employer.
 
- Contributors may share their content and involvement as a direct contributor of Fixate on social media profiles and in conversation.
+* Contributors may share their content and involvement as a direct contributor of Fixate on social media profiles and in conversation.
 
-Contributors will not re-purpose content in full without direct approval from Fixate.
+* Contributors will not re-purpose content in full without direct approval from Fixate.
 
-The contributor may post a summary of the content on their blog or social media forums and link back to the original.
+* The contributor may post a summary of the content on their blog or social media forums and link back to the original.
 
-The contributor may write on the topic for another blog posts as long as it does not contain copy from the original.
+* The contributor may write on the topic for another blog posts as long as it does not contain copy from the original.
 
-Contributors are not obligated to accept any topic. When a contributor accepts a topic they are expected to complete and turn in the post by the 25th each month. If the contributor passes on the post after acceptance, or misses turn in date for more than two months they will no longer be able to participate in the network.
+* Contributors are not obligated to accept any topic. When a contributor accepts a topic they are expected to complete and turn in the post by the 25th each month. If the contributor passes on the post after acceptance, or misses turn in date for more than two months they will no longer be able to participate in the network.
 
-Contributors may represent themselves as a “Contributor” for Fixate IO on bios and social media profiles. Including adding themselves as part of the Fixate IO company on LinkedIn
+* Contributors may represent themselves as a “Contributor” for Fixate IO on bios and social media profiles. Including adding themselves as part of the Fixate IO company on LinkedIn
 
 ## CONTENT GENERATION AND APPROVAL PROCESS:
 
@@ -56,6 +56,12 @@ The content generation and approval process is as follows:
 
 * SEO REVIEW: After the copy editor has finished editing the content, it is moved to the “SEOify” Trello list. At this stage the content is check against a Focus Keyword ( a keyword that will be targeted for search’s). And when there are opportunities to inject the keyword that will be done. Also the post is looked at for structure, graphics, and linking.
 
+## CONTENT ACCEPTANCE
+
+* Content should be free of opinions, product promotion, slander, or mention of competitive products to the customer. Content with any of the above can be edited prior to acceptance to meet these criteria.
+
+* From time to time content gets rejected. Content rejections can come from Fixate or fixate customers. 90% of the time rejections are from customers and based on direction changes or missed expectations on topics. Not on the quality of content. If content is rejected it is repurposed on the Fixate blog, and Fixate will pay 50% of the contributor’s blog rate.
+
 ## DELIVERY PROCESS
 
 * COMPLETE PENDING DELIVERY: After the content passes all the review stages it is marked as complete for delivery.
@@ -68,10 +74,10 @@ The content generation and approval process is as follows:
 
 ## PUBLISHING
 
-* CONTENT PUBLISHING: After the content is published Fixate will share the content as a unique URL with the Fixate network. The network is encouraged to share the content when it fits with their network, but this is not a requirement. If content is shared please always use the URL that Fixate provides. Because Fixate does not have access to customer analytics, this is the only way to gauge performance of a post.
+* After the content is published Fixate will share the content as a unique URL with the Fixate network. The network is encouraged to share the content when it fits with their network, but this is not a requirement. If content is shared please always use the URL that Fixate provides. Because Fixate does not have access to customer analytics, this is the only way to gauge performance of a post.
 
-## CONTENT ACCEPTANCE
+* Fixate and or Fixate client own copyright of all accepted content. Which means content cannot be republished in whole by the contributor, and the contributor cannot stake claim to the contents distribution.
 
-Content should be free of opinions, product promotion, slander, or mention of competitive products to the customer. Content with any of the above can be edited prior to acceptance to meet these criteria.
+* Fixate and or Client may choose to syndicate content on one or more forums including the clients blog or other media outlet.
 
-From time to time content gets rejected. Content rejections can come from Fixate or fixate customers. 90% of the time rejections are from customers and based on direction changes or missed expectations on topics. Not on the quality of content. If content is rejected it is repurposed on the Fixate blog, and Fixate will pay 50% of the contributor’s blog rate.
+* To the extent that it is possible, it is recommended that contributors subscribe to feeds where content is published, monitor, and respond to any comments placed on content they have created.
