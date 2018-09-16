@@ -81,3 +81,9 @@ The content generation and approval process is as follows:
 * Fixate and or Client may choose to syndicate content on one or more forums including the clients blog or other media outlet.
 
 * To the extent that it is possible, it is recommended that contributors subscribe to feeds where content is published, monitor, and respond to any comments placed on content they have created.
+
+## CODE OF CONDUCT
+
+* We encourage free and open conversation amongst contributors about the market and technology. Our contributor network is there to be a resource and motivator for all everyone to produce better technical content. If you feel like a peer contributor has breach a boundry of ediqutt we ask that you bring it to our attention immedatly, and avoid from engageing with the offender directly.
+
+* Fixate's priority is good technical content. And we only measure our contributors on the quality of their content. A contributor's personal oppinions should not be reflected in their content. Any and all interactions with the public outside the scope of published content is up to the disgression of the contributor. Any controvercies resulting from those interactions will not be associated with Fixate or Fixate's customers to the extent that is possible by the contributor.
