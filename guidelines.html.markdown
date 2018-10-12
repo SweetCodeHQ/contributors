@@ -87,3 +87,25 @@ The content generation and approval process is as follows:
 * We encourage free and open conversation amongst contributors about the market and technology. Our contributor network is there to be a resource and motivator for all everyone to produce better technical content. If you feel like a peer contributor has breach a boundry of ediqutt we ask that you bring it to our attention immedatly, and avoid from engageing with the offender directly.
 
 * Fixate's priority is good technical content. And we only measure our contributors on the quality of their content. A contributor's personal oppinions should not be reflected in their content. Any and all interactions with the public outside the scope of published content is up to the disgression of the contributor. Any controvercies resulting from those interactions will not be associated with Fixate or Fixate's customers to the extent that is possible by the contributor.
+
+## CONTRIBUTOR PRIVACY POLICY
+
+Fixate maintains contributor information for the sole purpose of working with, paying, and communicating with the contributor network. This information is required to become a contributor. Contributor data is stored in the following systems:
+
+* Quickbooks for financial tracking
+* Bill.com for financial tracking
+* Trello for project management
+* DocuSign for agreements you have signed
+* Google Drive Sheet for list management
+* Google Drive Doc for Bio's
+* Google Drive for financial records such as W9
+* Google Drive folder for bio images
+
+The type of information we store for everyone is name, email, address, business name if you have one, bio, headshot, and digital signature. We also store metadata of documents you have worked on, your conversations and activity in slack/trello (365 day retention period), and money been paid to you. Bill.com stores EFT information that we do not have access to, and is under their terms and conditions for use.
+
+For those who have completed financial documents such as a w9 data will also include your DOB, and EIN or SSN. These documents are stored in a Drive folder with no sharing or external access enabled, and are used for tax reporting purposes only.
+
+We do not, nor is it in our best interest to share your information with any external sources other than name, and bio when needed for publishing of content. Or email if needed for referral or external communication.
+
+If you have any concerns about your information privacy please let us know.
+
