@@ -20,7 +20,7 @@ description: |-
 
 * The contributor may write on the topic for another blog posts as long as it does not contain copy from the original.
 
-* Contributors are not obligated to accept any topic. When a contributor accepts a topic they are expected to complete and turn in the post by the 25th each month. If the contributor passes on the post after acceptance, or misses turn in date for more than two months they will no longer be able to participate in the network.
+* Contributors are not obligated to accept any topic. When a contributor accepts a topic they are expected to complete and turn in the post by the 20th each month. If the contributor passes on the post after acceptance, or misses turn in date for more than two months they will no longer be able to participate in the network.
 
 * Contributors may represent themselves as a “Contributor” for Fixate IO on bios and social media profiles. Including adding themselves as part of the Fixate IO company on LinkedIn
 
